@@ -1,0 +1,6 @@
+dataset/
+.idea/
+
+sam_b.pt
+trained_models/
+tensorboard/
